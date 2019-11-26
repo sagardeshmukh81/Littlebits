@@ -1,0 +1,163 @@
+Section,Type,Ahmedabad (Gujarat),Bengaluru(Karnataka),Chennai(Tamil Nadu),Coimbatore(Tamil Nadu),Delhi,Ghaziabad(Uttar Pradesh),Hyderabad(Telangana),Indore(Madhya Pradesh),Jaipur(Rajasthan),Kanpur(Uttar Pradesh),Kochi(Kerala),Kolkata(West Bengal),Kozhikode(Kerala),Lucknow(Uttar Pradesh),Mumbai(Maharashtra),Nagpur(Maharashtra),Patna(Bihar),Pune(Maharashtra),Surat(Gujarat)
+Murder (Sec.302 IPC),I,90,235,154,21,400,52,64,64,90,51,11,64,7,79,127,85,183,110,89
+Murder (Sec.302 IPC),V,90,243,162,22,428,54,64,66,91,51,11,64,8,82,129,86,184,114,91
+Murder (Sec.302 IPC),R,1.4,2.8,1.8,1,2.5,2.2,0.8,3,2.9,1.7,0.5,0.5,0.3,2.7,0.7,3.4,8.9,2.2,1.9
+Culpable Homicide not amounting to Murder (Sec.304 IPC),I,5,19,9,0,33,16,12,5,8,24,3,10,1,22,6,10,0,14,2
+Culpable Homicide not amounting to Murder (Sec.304 IPC),V,5,22,10,0,36,16,12,5,12,24,5,15,3,22,26,10,0,14,2
+Culpable Homicide not amounting to Murder (Sec.304 IPC),R,0.1,0.2,0.1,0,0.2,0.7,0.2,0.2,0.3,0.8,0.1,0.1,0,0.8,0,0.4,0,0.3,0
+Causing Death by Negligence (Sec.304-A IPC),I,355,753,1454,312,1495,219,395,270,750,262,118,325,161,408,604,270,325,492,248
+Causing Death by Negligence (Sec.304-A IPC),V,355,808,1553,321,1646,221,412,270,786,297,123,347,181,421,614,270,325,576,265
+Causing Death by Negligence (Sec.304-A IPC),R,5.6,8.9,16.7,14.5,9.2,9.3,5.1,12.5,24.4,9,5.6,2.3,7.9,14.1,3.3,10.8,15.9,9.7,5.4
+Deaths due to Negligence relating to Road Accidents (Total),I,346,629,1312,300,1317,212,358,270,647,0,113,234,159,400,492,270,325,435,247
+Deaths due to Negligence relating to Road Accidents (Total),V,346,670,1404,300,1451,214,372,270,683,0,118,239,179,413,492,270,325,449,264
+Deaths due to Negligence relating to Road Accidents (Total),R,5.4,7.4,15.1,13.9,8.1,9,4.6,12.5,21.1,0,5.3,1.7,7.8,13.8,2.7,10.8,15.9,8.6,5.4
+Hit and Run,I,53,190,176,37,418,68,222,239,408,0,0,0,4,326,0,269,0,286,209
+Hit and Run,V,53,195,176,37,458,68,226,239,441,0,0,0,4,339,0,269,0,286,226
+Hit and Run,R,0.8,2.2,2,1.7,2.6,2.9,2.9,11,13.3,0,0,0,0.2,11.2,0,10.8,0,5.7,4.6
+Other Accidents (other than Hit and Run),I,293,439,1136,263,899,144,136,31,239,0,113,234,155,74,492,1,325,149,38
+Other Accidents (other than Hit and Run),V,293,475,1228,263,993,146,146,31,242,0,118,239,175,74,492,1,325,163,38
+Other Accidents (other than Hit and Run),R,4.6,5.2,13.1,12.2,5.5,6.1,1.8,1.4,7.8,0,5.3,1.7,7.6,2.6,2.7,0,15.9,3,0.8
+Deaths due to Negligence relating to Rail Accidents,I,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+Deaths due to Negligence relating to Rail Accidents,V,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+Deaths due to Negligence relating to Rail Accidents,R,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0
+Deaths due to Medical Negligence,I,2,4,0,0,0,0,6,0,5,0,0,0,2,7,2,0,0,1,0
+Deaths due to Medical Negligence,V,2,4,0,0,0,0,6,0,5,0,0,0,2,7,2,0,0,1,0
+Deaths due to Medical Negligence,R,0,0,0,0,0,0,0.1,0,0.2,0,0,0,0.1,0.2,0,0,0,0,0
+Deaths due to Negligence of Civic Bodies,I,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+Deaths due to Negligence of Civic Bodies,V,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+Deaths due to Negligence of Civic Bodies,R,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deaths due to other Negligence,I,7,120,142,12,177,5,23,0,98,262,5,91,0,0,110,0,0,55,1
+Deaths due to other Negligence,V,7,134,149,21,194,5,26,0,98,297,5,108,0,0,120,0,0,125,1
+Deaths due to other Negligence,R,0.1,1.4,1.6,0.6,1.1,0.2,0.3,0,3.2,9,0.2,0.6,0,0,0.6,0,0,1.1,0
+Dowry Deaths (Sec.304-B IPC),I,2,48,3,0,102,22,27,14,35,34,0,13,0,35,11,8,65,7,0
+Dowry Deaths (Sec.304-B IPC),V,2,53,3,0,102,22,27,14,36,85,0,13,0,35,11,8,65,7,0
+Dowry Deaths (Sec.304-B IPC),R,0,0.6,0,0,0.6,0.9,0.3,0.6,1.1,1.2,0,0.1,0,1.2,0.1,0.3,3.2,0.1,0
+Abetment of Suicide (Sec.305/306 IPC),I,55,134,33,0,72,16,46,24,19,0,0,37,1,145,49,30,0,80,25
+Abetment of Suicide (Sec.305/306 IPC),V,55,136,33,0,79,16,56,24,19,0,0,37,1,145,56,30,0,80,25
+Abetment of Suicide (Sec.305/306 IPC),R,0.9,1.6,0.4,0,0.4,0.7,0.6,1.1,0.6,0,0,0.3,0,5,0.3,1.2,0,1.6,0.5
+Attempt to Commit Murder (Sec.307 IPC),I,62,578,244,18,557,65,129,50,78,63,32,142,10,119,201,73,165,163,103
+Attempt to Commit Murder (Sec.307 IPC),V,62,644,244,18,613,65,138,56,83,63,32,144,11,119,226,73,165,172,106
+Attempt to Commit Murder (Sec.307 IPC),R,1,6.8,2.8,0.8,3.4,2.8,1.7,2.3,2.5,2.2,1.5,1,0.5,4.1,1.1,2.9,8.1,3.2,2.2
+Attempt to commit Culpable Homicide (Sec.308 IPC),I,2,1,1,0,710,3,0,1,3,16,69,4,80,67,2,0,0,0,1
+Attempt to commit Culpable Homicide (Sec.308 IPC),V,2,2,1,0,801,3,0,1,3,16,69,4,80,67,2,0,0,0,1
+Attempt to commit Culpable Homicide (Sec.308 IPC),R,0,0,0,0,4.4,0.1,0,0,0.1,0.5,3.3,0,3.9,2.3,0,0,0,0,0
+Attempt to Commit Suicide (Sec.309 IPC),I,0,38,36,0,16,3,7,2,6,0,9,0,2,8,13,2,0,6,0
+Attempt to Commit Suicide (Sec.309 IPC),V,0,0,0,0,0,0,0,2,0,0,0,0,0,8,13,2,0,0,0
+Attempt to Commit Suicide (Sec.309 IPC),R,0,0.4,0.4,0,0.1,0.1,0.1,0.1,0.2,0,0.4,0,0.1,0.3,0.1,0.1,0,0.1,0
+"Miscarriage, Infanticide, Foeticide and Abandonment (Sec.313 to 318 IPC)",I,15,58,4,0,65,4,9,9,10,0,1,0,2,31,31,9,0,22,18
+"Miscarriage, Infanticide, Foeticide and Abandonment (Sec.313 to 318 IPC)",V,15,59,4,0,75,4,10,9,10,0,1,0,2,31,31,9,0,22,18
+"Miscarriage, Infanticide, Foeticide and Abandonment (Sec.313 to 318 IPC)",R,0.2,0.7,0,0,0.4,0.2,0.1,0.4,0.3,0,0,0,0.1,1.1,0.2,0.4,0,0.4,0.4
+Hurt,I,1371,3523,2350,795,3893,1532,1898,151,1739,90,951,1639,518,3311,5152,1344,7359,1440,560
+Hurt,V,1387,3634,2358,796,4527,1532,1993,151,1825,90,965,1723,566,4390,5436,1387,7700,1466,565
+Hurt,R,21.6,41.5,27,37,23.9,64.9,24.5,7,56.6,3.1,44.9,11.6,25.5,114.1,28,53.8,359.5,28.5,12.2
+Simple Hurt (Total),I,1192,3169,2296,781,3432,1520,1767,35,1727,0,869,1207,495,3038,3985,1069,4731,1106,412
+Simple Hurt (Total),V,1208,3266,2304,782,3929,1520,1808,35,1813,0,880,1252,540,4117,4223,1087,4887,1130,413
+Simple Hurt (Total),R,18.8,37.3,26.4,36.3,21,64.4,22.8,1.6,56.2,0,41,8.6,24.4,104.7,21.6,42.8,231.1,21.9,9
+Voluntarily Causing Simple Hurt (Sec.323 r/w 341/342),I,44,695,648,605,2008,0,94,35,1614,0,540,594,202,2657,217,22,3851,15,2
+Voluntarily Causing Simple Hurt (Sec.323 r/w 341/342),V,44,724,649,605,2319,0,97,35,1698,0,548,627,220,3736,219,27,3962,15,2
+Voluntarily Causing Simple Hurt (Sec.323 r/w 341/342),R,0.7,8.2,7.5,28.1,12.3,0,1.2,1.6,52.5,0,25.5,4.2,9.9,91.6,1.2,0.9,188.1,0.3,0
+Voluntarily causing hurt by Dangerous weapons or means (Sec.324 IPC),I,1054,2167,1355,154,820,0,1250,0,6,0,278,517,258,157,3235,882,880,916,360
+Voluntarily causing hurt by Dangerous weapons or means (Sec.324 IPC),V,1070,2230,1362,155,932,0,1262,0,6,0,278,526,285,157,3466,891,925,933,361
+Voluntarily causing hurt by Dangerous weapons or means (Sec.324 IPC),R,16.6,25.5,15.6,7.2,5,0,16.1,0,0.2,0,13.1,3.7,12.7,5.4,17.6,35.3,43,18.1,7.9
+Voluntarily Causing hurt/Force to deter public servant from his duty (Sec.332/353 IPC),I,49,265,137,19,196,57,69,0,91,0,51,67,33,157,418,97,0,138,35
+Voluntarily Causing hurt/Force to deter public servant from his duty (Sec.332/353 IPC),V,49,268,137,19,228,57,72,0,93,0,54,70,33,157,421,97,0,145,35
+Voluntarily Causing hurt/Force to deter public servant from his duty (Sec.332/353 IPC),R,0.8,3.1,1.6,0.9,1.2,2.4,0.9,0,3,0,2.4,0.5,1.6,5.4,2.3,3.9,0,2.7,0.8
+Causing Hurt by act endangering life/safety of others (Sec.336/337),I,36,39,0,3,290,24,261,0,13,0,0,17,2,32,85,67,0,36,13
+Causing Hurt by act endangering life/safety of others (Sec.336/337),V,36,39,0,3,327,24,284,0,13,0,0,17,2,32,86,71,0,36,13
+Causing Hurt by act endangering life/safety of others (Sec.336/337),R,0.6,0.5,0,0.1,1.8,1,3.4,0,0.4,0,0,0.1,0.1,1.1,0.5,2.7,0,0.7,0.3
+"Other Simple Hurt (Sec.327, 328, 330 & 334)",I,9,3,156,0,118,1439,93,0,3,0,0,12,0,35,30,1,0,1,2
+"Other Simple Hurt (Sec.327, 328, 330 & 334)",V,9,5,156,0,123,1439,93,0,3,0,0,12,0,35,31,1,0,1,2
+"Other Simple Hurt (Sec.327, 328, 330 & 334)",R,0.1,0,1.8,0,0.7,61,1.2,0,0.1,0,0,0.1,0,1.2,0.2,0,0,0,0
+Grievous Hurt (Total),I,179,354,54,14,461,12,131,116,12,90,82,432,23,273,1167,275,2628,334,148
+Grievous Hurt (Total),V,179,368,54,14,598,12,185,116,12,90,85,471,26,273,1213,300,2813,336,152
+Grievous Hurt (Total),R,2.8,4.2,0.6,0.7,2.8,0.5,1.7,5.4,0.4,3.1,3.9,3.1,1.1,9.4,6.3,11,128.4,6.6,3.2
+Voluntarily causing grievous hurt (Sec.325 IPC),I,134,77,20,6,329,0,91,94,10,89,47,180,11,179,427,119,2628,76,105
+Voluntarily causing grievous hurt (Sec.325 IPC),V,134,78,20,6,445,0,140,94,10,89,48,200,12,179,453,138,2813,78,109
+Voluntarily causing grievous hurt (Sec.325 IPC),R,2.1,0.9,0.2,0.3,2,0,1.2,4.3,0.3,3,2.2,1.3,0.5,6.2,2.3,4.8,128.4,1.5,2.3
+Voluntarily causing grievous hurt by dangerous weapons or means (Sec.326 IPC),I,39,183,33,4,54,10,15,0,0,0,35,238,12,14,658,109,0,221,40
+Voluntarily causing grievous hurt by dangerous weapons or means (Sec.326 IPC),V,39,196,33,4,73,10,20,0,0,0,37,252,14,14,678,115,0,221,40
+Voluntarily causing grievous hurt by dangerous weapons or means (Sec.326 IPC),R,0.6,2.2,0.4,0.2,0.3,0.4,0.2,0,0,0,1.7,1.7,0.6,0.5,3.6,4.4,0,4.4,0.9
+Acid Attack (Sec.326A IPC),I,1,2,1,0,11,2,1,1,2,1,0,1,0,5,3,0,0,0,1
+Acid Attack (Sec.326A IPC),V,1,2,1,0,13,2,1,1,2,1,0,1,0,5,3,0,0,0,1
+Acid Attack (Sec.326A IPC),R,0,0,0,0,0.1,0.1,0,0,0.1,0,0,0,0,0.2,0,0,0,0,0
+Attempt to Acid Attack (Sec.326B IPC),I,1,0,0,0,11,0,1,0,0,0,0,1,0,3,5,0,0,0,0
+Attempt to Acid Attack (Sec.326B IPC),V,1,0,0,0,11,0,1,0,0,0,0,1,0,3,5,0,0,0,0
+Attempt to Acid Attack (Sec.326B IPC),R,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0
+Voluntarily Causing Grievous hurt/Force to deter public servant from his duty (Sec.333/353 IPC),I,4,7,0,2,6,0,6,9,0,0,0,0,0,67,21,0,0,14,0
+Voluntarily Causing Grievous hurt/Force to deter public servant from his duty (Sec.333/353 IPC),V,4,7,0,2,6,0,6,9,0,0,0,0,0,67,21,0,0,14,0
+Voluntarily Causing Grievous hurt/Force to deter public servant from his duty (Sec.333/353 IPC),R,0.1,0.1,0,0.1,0,0,0.1,0.4,0,0,0,0,0,2.3,0.1,0,0,0.3,0
+Causing Grievous Hurt by act endangering life/safety of others (Sec.338 IPC),I,0,85,0,2,50,0,17,12,0,0,0,12,0,5,53,47,0,23,2
+Causing Grievous Hurt by act endangering life/safety of others (Sec.338 IPC),V,0,85,0,2,50,0,17,12,0,0,0,17,0,5,53,47,0,23,2
+Causing Grievous Hurt by act endangering life/safety of others (Sec.338 IPC),R,0,1,0,0.1,0.3,0,0.2,0.6,0,0,0,0.1,0,0.2,0.3,1.9,0,0.5,0
+"Other Grievous Hurt (Sec.329, 331 & 335)",I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Other Grievous Hurt (Sec.329, 331 & 335)",V,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Other Grievous Hurt (Sec.329, 331 & 335)",R,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wrongful Restraint/Confinement (Sec.341 to 348 IPC),I,7,66,1,0,71,0,54,26,5,0,66,0,9,172,39,8,0,20,5
+Wrongful Restraint/Confinement (Sec.341 to 348 IPC),V,7,66,1,0,103,0,59,26,5,0,67,0,9,172,41,14,0,20,5
+Wrongful Restraint/Confinement (Sec.341 to 348 IPC),R,0.1,0.8,0,0,0.4,0,0.7,1.2,0.2,0,3.1,0,0.4,5.9,0.2,0.3,0,0.4,0.1
+Assault on Women with Intent to Outrage her Modesty (Sec.354 IPC) (Total),I,224,976,71,5,2548,187,376,305,239,271,253,309,107,431,1713,278,10,503,70
+Assault on Women with Intent to Outrage her Modesty (Sec.354 IPC) (Total),V,224,984,71,5,2712,187,402,305,241,271,253,314,107,431,1750,278,10,503,70
+Assault on Women with Intent to Outrage her Modesty (Sec.354 IPC) (Total),R,3.5,11.5,0.8,0.2,15.6,7.9,4.9,14.1,7.8,9.3,11.9,2.2,5.3,14.9,9.3,11.1,0.5,10,1.5
+Assault on Women (Sec.354 IPC),I,59,645,47,5,892,0,202,158,168,0,105,168,44,356,849,113,10,217,70
+Assault on Women (Sec.354 IPC),V,59,652,47,5,1056,0,222,158,168,0,105,168,44,356,860,113,10,217,70
+Assault on Women (Sec.354 IPC),R,0.9,7.6,0.5,0.2,5.5,0,2.6,7.3,5.5,0,5,1.2,2.2,12.3,4.6,4.5,0.5,4.3,1.5
+Sexual Harassment (Sec.354A IPC) (Total),I,106,135,6,0,613,133,54,75,62,162,101,56,28,0,378,88,0,140,0
+Sexual Harassment (Sec.354A IPC) (Total),V,106,135,6,0,613,133,60,75,64,162,101,61,28,0,391,88,0,140,0
+Sexual Harassment (Sec.354A IPC) (Total),R,1.7,1.6,0.1,0,3.8,5.6,0.7,3.5,2,5.5,4.8,0.4,1.4,0,2.1,3.5,0,2.8,0
+Sexual Harassment at Work or Office Premises,I,2,7,0,0,25,5,24,0,0,0,0,0,2,0,12,5,0,14,0
+Sexual Harassment at Work or Office Premises,V,2,7,0,0,25,5,30,0,0,0,0,0,2,0,12,5,0,14,0
+Sexual Harassment at Work or Office Premises,R,0,0.1,0,0,0.2,0.2,0.3,0,0,0,0,0,0.1,0,0.1,0.2,0,0.3,0
+Sexual Harassment In Public Transport System,I,0,8,0,0,27,9,9,3,0,0,0,0,0,0,5,0,0,0,0
+Sexual Harassment In Public Transport System,V,0,8,0,0,27,9,9,3,0,0,0,0,0,0,5,0,0,0,0
+Sexual Harassment In Public Transport System,R,0,0.1,0,0,0.2,0.4,0.1,0.1,0,0,0,0,0,0,0,0,0,0,0
+Sexual Harassment In Shelter Homes for women and Children,I,1,2,0,0,1,0,7,0,0,0,0,0,0,0,24,0,0,26,0
+Sexual Harassment In Shelter Homes for women and Children,V,1,2,0,0,1,0,7,0,0,0,0,0,0,0,24,0,0,26,0
+Sexual Harassment In Shelter Homes for women and Children,R,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0.1,0,0,0.5,0
+Sexual Harassment Other Places,I,103,118,6,0,560,119,14,72,62,162,101,56,26,0,337,83,0,100,0
+Sexual Harassment Other Places,V,103,118,6,0,560,119,14,72,64,162,101,61,26,0,350,83,0,100,0
+Sexual Harassment Other Places,R,1.6,1.4,0.1,0,3.4,5,0.2,3.3,2,5.5,4.8,0.4,1.3,0,1.8,3.3,0,2,0
+Assault or use of Criminal Force on women with intent to Disrobe (Sec.354B IPC),I,16,75,2,0,533,28,9,1,3,53,11,16,15,23,64,3,0,9,0
+Assault or use of Criminal Force on women with intent to Disrobe (Sec.354B IPC),V,16,75,2,0,533,28,9,1,3,53,11,16,15,23,69,3,0,9,0
+Assault or use of Criminal Force on women with intent to Disrobe (Sec.354B IPC),R,0.3,0.9,0,0,3.3,1.2,0.1,0,0.1,1.8,0.5,0.1,0.7,0.8,0.3,0.1,0,0.2,0
+Voyeurism (Sec.354C IPC),I,3,29,8,0,38,1,8,0,0,2,4,16,9,8,39,4,0,10,0
+Voyeurism (Sec.354C IPC),V,3,30,8,0,38,1,8,0,0,2,4,16,9,8,40,4,0,10,0
+Voyeurism (Sec.354C IPC),R,0,0.3,0.1,0,0.2,0,0.1,0,0,0.1,0.2,0.1,0.4,0.3,0.2,0.2,0,0.2,0
+Stalking (Sec.354D IPC),I,40,92,8,0,472,25,103,71,6,54,32,53,11,44,383,70,0,127,0
+Stalking (Sec.354D IPC),V,40,92,8,0,472,25,103,71,6,54,32,53,11,44,390,70,0,127,0
+Stalking (Sec.354D IPC),R,0.6,1.1,0.1,0,2.9,1.1,1.3,3.3,0.2,1.8,1.5,0.4,0.5,1.5,2.1,2.8,0,2.5,0
+Kidnapping and Abduction (Total),I,263,1050,54,5,5203,532,341,669,520,541,19,374,13,684,2159,494,542,964,332
+Kidnapping and Abduction (Total),V,263,1086,54,5,5703,537,409,669,541,541,19,395,13,684,2282,521,584,973,350
+Kidnapping and Abduction (Total),R,4.1,12.4,0.6,0.2,31.9,22.6,4.4,30.9,16.9,18.5,0.9,2.7,0.6,23.6,11.7,19.8,26.5,19.1,7.2
+Kidnapping and Abduction (Sec.363 IPC),I,159,982,23,1,4765,179,305,654,421,113,9,263,7,321,2100,486,128,931,249
+Kidnapping and Abduction (Sec.363 IPC),V,159,1017,23,1,5243,184,373,654,442,113,9,277,7,321,2215,513,128,940,267
+Kidnapping and Abduction (Sec.363 IPC),R,2.5,11.6,0.3,0,29.2,7.6,3.9,30.2,13.7,3.9,0.4,1.9,0.3,11.1,11.4,19.5,6.3,18.4,5.4
+Missing Children Deemed as Kidnapped,I,96,894,0,0,2519,5,105,355,207,0,0,0,0,321,42,42,0,264,246
+Missing Children Deemed as Kidnapped,V,96,914,0,0,2627,5,130,355,207,0,0,0,0,321,84,45,0,267,264
+Missing Children Deemed as Kidnapped,R,1.5,10.5,0,0,15.4,0.2,1.4,16.4,6.7,0,0,0,0,11.1,0.2,1.7,0,5.2,5.4
+Other Kidnapping & Abduction,I,63,88,23,1,2246,174,200,299,214,113,9,263,7,0,2058,444,128,667,3
+Other Kidnapping & Abduction,V,63,103,23,1,2616,179,243,299,235,113,9,277,7,0,2131,468,128,673,3
+Other Kidnapping & Abduction,R,1,1,0.3,0,13.8,7.4,2.6,13.8,7,3.9,0.4,1.9,0.3,0,11.2,17.8,6.3,13.2,0.1
+Kidnapping and Abduction for the Purpose of Begging (Sec.363 A),I,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kidnapping and Abduction for the Purpose of Begging (Sec.363 A),V,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kidnapping and Abduction for the Purpose of Begging (Sec.363 A),R,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kidnapping and Abduction in order to Murder (Sec.364 IPC),I,0,3,1,0,0,32,0,0,0,23,0,0,0,10,2,0,4,0,0
+Kidnapping and Abduction in order to Murder (Sec.364 IPC),V,0,3,1,0,0,32,0,0,0,23,0,0,0,10,2,0,4,0,0
+Kidnapping and Abduction in order to Murder (Sec.364 IPC),R,0,0,0,0,0,1.4,0,0,0,0.8,0,0,0,0.3,0,0,0.2,0,0
+Kidnapping for Ransom (Sec.364A IPC),I,2,32,7,1,16,0,3,0,2,2,2,13,0,0,0,1,2,10,12
+Kidnapping for Ransom (Sec.364A IPC),V,2,33,7,1,16,0,3,0,2,2,2,13,0,0,0,1,2,10,12
+Kidnapping for Ransom (Sec.364A IPC),R,0,0.4,0.1,0,0.1,0,0,0,0.1,0.1,0.1,0.1,0,0,0,0,0.1,0.2,0.3
+Kidnapping and Abduction of Women to compel her for marriage (Sec.366 IPC),I,75,4,3,1,10,321,10,15,35,403,8,16,4,344,36,4,306,11,46
+Kidnapping and Abduction of Women to compel her for marriage (Sec.366 IPC),V,75,4,3,1,10,321,10,15,35,403,8,21,4,344,36,4,306,11,46
+Kidnapping and Abduction of Women to compel her for marriage (Sec.366 IPC),R,1.2,0,0,0,0.1,13.6,0.1,0.7,1.1,13.8,0.4,0.1,0.2,11.9,0.2,0.2,14.9,0.2,1
+Procuration of Minor Girls (Sec.366A),I,0,14,5,0,0,0,1,0,0,0,0,45,0,4,5,0,0,0,0
+Procuration of Minor Girls (Sec.366A),V,0,14,5,0,0,0,1,0,0,0,0,45,0,4,11,0,0,0,0
+Procuration of Minor Girls (Sec.366A),R,0,0.2,0.1,0,0,0,0,0,0,0,0,0.3,0,0.1,0,0,0,0,0
+Importation of Girls from Foreign Country (Sec.366-B IPC),I,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Importation of Girls from Foreign Country (Sec.366-B IPC),V,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Importation of Girls from Foreign Country (Sec.366-B IPC),R,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Other Kidnapping & Abduction (Sec.365, 367, 368, 369)",I,27,15,15,2,411,0,22,0,62,0,0,36,2,5,16,3,102,12,25
+"Other Kidnapping & Abduction (Sec.365, 367, 368, 369)",V,27,15,15,2,433,0,22,0,62,0,0,38,2,5,18,3,144,12,25
+"Other Kidnapping & Abduction (Sec.365, 367, 368, 369)",R,0.4,0.2,0.2,0.1,2.5,0,0.3,0,2,0,0,0.3,0.1,0.2,0.1,0.1,5,0.2,0.5
+Human Trafficking (U/S 370),I,1,5,0,0,45,0,14,2,0,0,8,8,1,2,34,15,0,23,0
+Human Trafficking (U/S 370),V,1,40,0,0,212,0,15,2,0,0,9,10,1,2,173,30,0,55,0
+Human Trafficking (U/S 370),R,0,0.1,0,0,0.3,0,0.2,0.1,0,0,0.4,0.1,0,0.1,0.2,0.6,0,0.5,0
